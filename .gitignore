@@ -1,0 +1,28 @@
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Flask files
+instance/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+*.venv
+.env/
+
+# IDE/Editor folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
